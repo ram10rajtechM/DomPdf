@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "WeProvide\\Dompdf\\": ""
+            "Digicel\\Dompdf\\": ""
         },
         "files": [
             "registration.php"
