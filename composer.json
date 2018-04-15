@@ -1,5 +1,5 @@
 {
-    "name": "weprovide/magento2-module-dompdf-updated",
+    "name": "digicel/magento2-module-dompdf-updated",
     "description": "Result class for rendering a PDF using Dompdf",
     "type": "magento2-module",
     "authors": [
